@@ -1,6 +1,8 @@
+##Rainfall prediction model
+
 ## Overview
 
-In this Colab notebook, we address the problem of predicting rainfall using a binary classification approach. The project demonstrates how combining models through ensemble techniques can improve predictive performance over single classifiers.
+In this notebook, we address the problem of predicting rainfall using a binary classification approach. The project demonstrates how combining models through ensemble techniques can improve predictive performance over single classifiers.
 
 This is a Kaggle competition
 
